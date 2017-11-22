@@ -8,8 +8,13 @@ created by slappasswd(8) and unsalted versions {SSH}, {MD5}
 <p>
 See <em>doc/</em>  for very brief explanation.
 </p>
+<p>
 The SHA1 and MD5 routines are from:
+</p>
 <pre>
 Steve Reid &lt;steve@edmweb.com&gt; <em>100% Public Domain</em> sha1.h sha1.c
 L Peter Deutsch &lt;ghost@aladdin.com&gt; <em>Fair dealing</em> md5.h md5.c
 </pre>
+<p>
+ See the head of the source files for details.
+ </p>
